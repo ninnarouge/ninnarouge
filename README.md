@@ -16,12 +16,10 @@ Construyo productos digitales donde se encuentran tecnología, experiencia de us
 ### Proyectos que representan mi nivel actual
 | Proyecto | Qué demuestra |
 |----------|----------------|
-| **Rakin IA** | Producto de dominio (sector psicosocial) + frontend/UX + stack moderno · [rakinia.com](https://rakinia.com) · repo de equipo [Barrolas/RakinIA](https://github.com/Barrolas/RakinIA) *(privado)* |
-| **REV — Red de Emergencia Valle** | Sistemas de misión crítica · [Barrolas/rev-fullstack](https://github.com/Barrolas/rev-fullstack) |
+| **REV — Red de Emergencia Valle** | Sistemas de misión crítica (emergencias) · [Barrolas/rev-fullstack](https://github.com/Barrolas/rev-fullstack) |
+| **Rakin IA** | Producto de dominio (sector psicosocial) + frontend/UX + stack moderno · [rakinia.com](https://rakinia.com) |
+| **Kiran** | Dirección de proyecto + frontend + gobernanza · [ninnarouge/kiran-…](https://github.com/ninnarouge/kiran-gpy1102-gestion-de-proyectos-de-software) |
 | **Grein** | Dirección creativa e identidad de marca |
-| **Kiran** | Dirección de proyecto + frontend + gobernanza · [repo](https://github.com/ninnarouge/kiran-gpy1102-gestion-de-proyectos-de-software) |
-
-> Prioridad abierta: publicar/visibilizar RakinIA en el perfil cuando el equipo lo autorice.
 
 ### Contacto
 - LinkedIn: [giaruagh](https://www.linkedin.com/in/giaruagh)
