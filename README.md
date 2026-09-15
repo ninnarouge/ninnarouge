@@ -22,7 +22,7 @@ Construyo productos digitales donde se encuentran tecnología, experiencia de us
 | **Grein** | Dirección creativa e identidad de marca |
 
 ### Contacto
-- LinkedIn: [giaruagh](https://www.linkedin.com/in/giaruagh)
+- LinkedIn: [ninnaguerrero](https://www.linkedin.com/in/ninnaguerrero)
 - GitHub: [ninnarouge](https://github.com/ninnarouge)
 
 ---
