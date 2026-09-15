@@ -22,6 +22,7 @@ Construyo productos digitales donde se encuentran tecnología, experiencia de us
 | **Grein** | Dirección creativa e identidad de marca |
 
 ### Contacto
+- Portafolio: [giannina-guerrero.netlify.app](https://giannina-guerrero.netlify.app/)
 - LinkedIn: [ninnaguerrero](https://www.linkedin.com/in/ninnaguerrero)
 - GitHub: [ninnarouge](https://github.com/ninnarouge)
 
