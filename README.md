@@ -1,31 +1,99 @@
-# Giannina Guerrero
+<div align="center">
 
-**Analista Programadora** · Ingeniería en Informática (Desarrollo de Software) — Duoc UC  
-Fullstack con foco **frontend · UX/UI · identidad visual** · ciberseguridad aplicada al software
+<img src="./banner.png" alt="Giannina Guerrero. Software Developer. Fullstack, Frontend y UX. Santiago, Chile." width="100%">
 
-Construyo productos digitales donde se encuentran tecnología, experiencia de usuario y marca: del problema real al flujo usable.
+<br>
 
----
+<a href="https://github.com/ninnarouge"><img alt="Fullstack" height="28" src="https://img.shields.io/badge/Fullstack-F5C518?style=for-the-badge"></a>
+&nbsp;
+<a href="https://github.com/ninnarouge"><img alt="Frontend and UX" height="28" src="https://img.shields.io/badge/Frontend_%26_UX-111111?style=for-the-badge"></a>
+&nbsp;
+<a href="https://github.com/ninnarouge"><img alt="Santiago, Chile" height="28" src="https://img.shields.io/badge/Santiago,_Chile-111111?style=for-the-badge&logo=googlemaps&logoColor=F5C518"></a>
 
-### En qué aporto
-- **Frontend / UX:** React, Next.js, Vite, Tailwind, design systems, integridad de flujos
-- **Backend / datos:** Java, Spring Boot, APIs REST, PostgreSQL
-- **Producto:** requisitos → interfaz → validación; criterio de calidad y CX (13 años en Virgin Mobile Chile)
-- **Diseño:** dirección creativa e identidad visual (branding)
+<h3>Software Developer · Fullstack · Frontend & UX</h3>
 
-### Proyectos que representan mi nivel actual
-| Proyecto | Qué demuestra |
-|----------|----------------|
-| **REV — Red de Emergencia Valle** | Sistemas de misión crítica (emergencias) · [Barrolas/rev-fullstack](https://github.com/Barrolas/rev-fullstack) |
-| **Rakin IA** | Producto de dominio (sector psicosocial) + frontend/UX + stack moderno · [rakinia.com](https://rakinia.com) |
-| **Kiran** | Dirección de proyecto + frontend + gobernanza · [ninnarouge/kiran-…](https://github.com/ninnarouge/kiran-gpy1102-gestion-de-proyectos-de-software) |
-| **Grein** | Dirección creativa e identidad de marca |
+Analista programadora. Producto digital, interfaz y calidad.
 
-### Contacto
-- Portafolio: [giannina-guerrero.netlify.app](https://giannina-guerrero.netlify.app/)
-- LinkedIn: [ninnaguerrero](https://www.linkedin.com/in/ninnaguerrero)
-- GitHub: [ninnarouge](https://github.com/ninnarouge)
+<a href="https://www.linkedin.com/in/ninnaguerrero"><img alt="LinkedIn" height="28" src="https://img.shields.io/badge/LinkedIn-F5C518?style=for-the-badge&logo=linkedin&logoColor=111111"></a>
+&nbsp;
+<a href="https://github.com/ninnarouge"><img alt="GitHub" height="28" src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=F5C518"></a>
 
----
+<br>
 
-<sub>Santiago, Chile · Abierta a roles híbridos / remotos en desarrollo de software</sub>
+<img src="./assets/divider.svg" alt="" width="100%">
+
+</div>
+
+## Sobre mí
+
+Soy **Giannina Guerrero**, desarrolladora de software en Santiago, Chile. Trabajo en **fullstack y frontend**, con atención a la experiencia de usuario y al producto digital.
+
+Vengo del diseño gráfico y de Ingeniería Informática (Duoc UC). Me interesa que la interfaz se entienda, que el código se pueda mantener y que la entrega cuide calidad y seguridad.
+
+Hoy busco proyectos donde diseño y desarrollo se hablen: pantallas claras, flujos concretos y un stack moderno.
+
+## Stack
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <strong>Lenguajes</strong><br><br>
+      <img alt="Python" height="22" src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=F5C518"><br><br>
+      <img alt="JavaScript" height="22" src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F5C518"><br><br>
+      <img alt="TypeScript" height="22" src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=F5C518">
+    </td>
+    <td align="center" valign="top" width="34%">
+      <strong>Interfaz</strong><br><br>
+      <img alt="React" height="22" src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=F5C518"><br><br>
+      <img alt="HTML5" height="22" src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=F5C518"><br><br>
+      <img alt="CSS3" height="22" src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css&logoColor=F5C518"><br><br>
+      <img alt="Figma" height="22" src="https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=F5C518">
+    </td>
+    <td align="center" valign="top" width="33%">
+      <strong>Entorno</strong><br><br>
+      <img alt="Node.js" height="22" src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=F5C518"><br><br>
+      <img alt="Git" height="22" src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F5C518">
+    </td>
+  </tr>
+</table>
+
+## Proyectos destacados
+
+Piezas en preparación. El enlace se activa cuando el repositorio sea público.
+
+<table>
+  <tr>
+    <th align="left" width="18%">Proyecto</th>
+    <th align="left">Foco</th>
+    <th align="center" width="16%">Estado</th>
+  </tr>
+  <tr>
+    <td><strong>Kiran</strong></td>
+    <td>Lead / frontend. Sistema de interfaz y experiencia de producto.</td>
+    <td align="center"><code>Propuesta</code></td>
+  </tr>
+  <tr>
+    <td><strong>Rakin IA</strong></td>
+    <td>Flujos e interfaz sobre una capa de inteligencia artificial.</td>
+    <td align="center"><code>Propuesta</code></td>
+  </tr>
+  <tr>
+    <td><strong>REV</strong></td>
+    <td>Frontend de producto: ritmo visual y componentes.</td>
+    <td align="center"><code>Propuesta</code></td>
+  </tr>
+</table>
+
+## Contacto
+
+<div align="center">
+
+**Giannina Guerrero** · Santiago, Chile
+
+[LinkedIn](https://www.linkedin.com/in/ninnaguerrero) · [GitHub](https://github.com/ninnarouge)
+
+<img src="./assets/divider.svg" alt="" width="100%">
+
+<sub>Fullstack · producto digital · calidad y seguridad</sub>
+
+</div>
