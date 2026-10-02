@@ -18,9 +18,14 @@ Analista programadora. Producto digital, interfaz y calidad.
 &nbsp;
 <a href="https://github.com/ninnarouge"><img alt="GitHub" height="28" src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=F5C518"></a>
 
-<br>
 
-<img src="./assets/divider.svg" alt="" width="100%">
+<p align="center">
+<img alt="" height="18" src="https://img.shields.io/badge/◆-F5C518?style=flat-square">
+&nbsp;&nbsp;
+<img alt="" height="18" src="https://img.shields.io/badge/◆-F5C518?style=flat-square">
+&nbsp;&nbsp;
+<img alt="" height="18" src="https://img.shields.io/badge/◆-F5C518?style=flat-square">
+</p>
 
 </div>
 
@@ -92,11 +97,14 @@ Piezas en preparación. El enlace se activa cuando el repositorio sea público.
 
 [LinkedIn](https://www.linkedin.com/in/ninnaguerrero) · [GitHub](https://github.com/ninnarouge)
 
-<br>
 
-<img src="./assets/divider.svg" alt="" width="280">
-
-<br>
+<p align="center">
+<img alt="" height="18" src="https://img.shields.io/badge/◆-F5C518?style=flat-square">
+&nbsp;&nbsp;
+<img alt="" height="18" src="https://img.shields.io/badge/◆-F5C518?style=flat-square">
+&nbsp;&nbsp;
+<img alt="" height="18" src="https://img.shields.io/badge/◆-F5C518?style=flat-square">
+</p>
 
 <sub>Fullstack · producto digital · calidad y seguridad</sub>
 
