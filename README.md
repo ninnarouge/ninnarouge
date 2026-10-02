@@ -92,7 +92,11 @@ Piezas en preparación. El enlace se activa cuando el repositorio sea público.
 
 [LinkedIn](https://www.linkedin.com/in/ninnaguerrero) · [GitHub](https://github.com/ninnarouge)
 
-<img src="./assets/divider.svg" alt="" width="100%">
+<br>
+
+<img src="./assets/divider.svg" alt="" width="280">
+
+<br>
 
 <sub>Fullstack · producto digital · calidad y seguridad</sub>
 
