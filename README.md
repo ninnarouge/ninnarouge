@@ -17,6 +17,8 @@ Analista programadora. Producto digital, interfaz y calidad.
 <a href="https://www.linkedin.com/in/ninnaguerrero"><img alt="LinkedIn" height="28" src="https://img.shields.io/badge/LinkedIn-F5C518?style=for-the-badge&logo=linkedin&logoColor=111111"></a>
 &nbsp;
 <a href="https://github.com/ninnarouge"><img alt="GitHub" height="28" src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=F5C518"></a>
+&nbsp;
+<a href="https://giannina-guerrero.netlify.app/"><img alt="Portafolio" height="28" src="https://img.shields.io/badge/Portafolio-F5C518?style=for-the-badge"></a>
 
 
 <p align="center">
@@ -101,7 +103,7 @@ Piezas en preparación. El enlace se activa cuando el repositorio sea público.
 
 **Giannina Guerrero** · Santiago, Chile
 
-[LinkedIn](https://www.linkedin.com/in/ninnaguerrero) · [GitHub](https://github.com/ninnarouge)
+[LinkedIn](https://www.linkedin.com/in/ninnaguerrero) · [GitHub](https://github.com/ninnarouge) · [Portafolio](https://giannina-guerrero.netlify.app/)
 
 
 <p align="center">
