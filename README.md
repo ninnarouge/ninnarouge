@@ -39,15 +39,19 @@ Hoy busco proyectos donde diseño y desarrollo se hablen: pantallas claras, fluj
 
 ## Stack
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" valign="top" width="33%">
+      <img src="./assets/spacer.png" width="300" height="1" alt="">
+      <br>
       <strong>Lenguajes</strong><br><br>
       <img alt="Python" height="22" src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=F5C518"><br><br>
       <img alt="JavaScript" height="22" src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F5C518"><br><br>
       <img alt="TypeScript" height="22" src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=F5C518">
     </td>
     <td align="center" valign="top" width="34%">
+      <img src="./assets/spacer.png" width="320" height="1" alt="">
+      <br>
       <strong>Interfaz</strong><br><br>
       <img alt="React" height="22" src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=F5C518"><br><br>
       <img alt="HTML5" height="22" src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=F5C518"><br><br>
@@ -55,6 +59,8 @@ Hoy busco proyectos donde diseño y desarrollo se hablen: pantallas claras, fluj
       <img alt="Figma" height="22" src="https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=F5C518">
     </td>
     <td align="center" valign="top" width="33%">
+      <img src="./assets/spacer.png" width="300" height="1" alt="">
+      <br>
       <strong>Entorno</strong><br><br>
       <img alt="Node.js" height="22" src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=F5C518"><br><br>
       <img alt="Git" height="22" src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F5C518">
@@ -66,11 +72,11 @@ Hoy busco proyectos donde diseño y desarrollo se hablen: pantallas claras, fluj
 
 Piezas en preparación. El enlace se activa cuando el repositorio sea público.
 
-<table>
+<table width="100%">
   <tr>
-    <th align="left" width="18%">Proyecto</th>
-    <th align="left">Foco</th>
-    <th align="center" width="16%">Estado</th>
+    <th align="left" width="22%">Proyecto<br><img src="./assets/spacer.png" width="200" height="1" alt=""></th>
+    <th align="left" width="58%">Foco<br><img src="./assets/spacer.png" width="520" height="1" alt=""></th>
+    <th align="center" width="20%">Estado<br><img src="./assets/spacer.png" width="180" height="1" alt=""></th>
   </tr>
   <tr>
     <td><strong>Kiran</strong></td>
